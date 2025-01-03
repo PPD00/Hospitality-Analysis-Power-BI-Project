@@ -16,6 +16,10 @@ The data model follows a STAR SCHEMA with:
 - Fact Tables:
      Fact Aggregated Bookings,
      Fact Bookings
+
+![Screenshot 2025-01-03 222757](https://github.com/user-attachments/assets/1b066c85-662c-41a6-99c0-5d913eb7b913)
+
+  
 ## Key Insights
 
 - Properties in Bangalore performed the best, generating the highest revenue, while properties in Delhi underperformed.
