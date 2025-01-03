@@ -27,6 +27,9 @@ The data model follows a STAR SCHEMA with:
 - Cancellation rates averaged 24.8%, significantly impacting realized revenue.
 - Direct online bookings had the highest revenue realization rate of 70.57%, showing the importance of online channels.
 - Guest ratings revealed that Atliq Blu and Atliq Bay were the top-performing properties with high ratings, while Atliq Exotica struggled to meet guest expectations.
+
+https://github.com/user-attachments/assets/c0d456f9-9d78-4e21-a974-f31cd03b8469
+  
 ## Key Learnings
 
 - Interactive dashboards help businesses make better decisions.
